@@ -18,7 +18,7 @@ My HDD was destroyed in an accident. However, I was able to recover my recycle b
 
 As the question says, the file that is provided is a recycle bin file. We can verify that by going to the terminal and typing:
 
-```
+```bash
 $ file search-trash
 search-trash: Windows Recycle Bin INFO2 file (Win2k - WinXP)
 ```
