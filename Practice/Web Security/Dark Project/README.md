@@ -72,5 +72,7 @@ Finally when you decode you get php + html code and if you see at the beginning 
 ![Done](https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif)
 
 Done.
+
 Happy Hacking,
+
 Chapi Menge
