@@ -12,14 +12,15 @@ Our threat intelligence team has noticed suspicious behavior from the user sanzo
 ### Required Tools & Skills
 
 - Basic Linux commands
-- Internet connection 
+- Internet connection
 - [spiderfoot](https://www.spiderfoot.net/)
 
 ### Procedure
 
 We are looking for a user named 'sanzomeno', and the website has not been provided. I this case we have to search every website for a user named 'sanzomeno'.
 
-To do this, we use an OSINT tool known as sn0int. After installing sn0int run it by typing:  
+To do this, we use an OSINT tool known as sn0int. After installing sn0int run it by typing:
+
 ```$ spiderfoot -l 127.0.0.1:1337```  
 or  
 ```$ sudo spiderfoot -l 127.0.0.1:1337```
