@@ -25,7 +25,7 @@ var _0xae5b=["\x76\x61\x6C\x75\x65","\x75\x73\x65\x72","\x67\x65\x74\x45\x6C\x65
 Don't panic it is just javascript code written by hex value of the character. To change the ASCII character you have many option:
 
     > one is to change every character or,
-    > copy and paste to javscript browser console ( first allow the pasting by typing **allow pasting** and enter) 
+    > copy and paste to javscript browser console ( first allow the pasting by typing "allow pasting" and enter) 
     on every singe line (till the ; )
     > another use online js code formatter
     > and any option to change the hex to ascii character.
